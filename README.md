@@ -5,7 +5,7 @@ This example helps you to find HOT keys in Dynamodb table using streams.
 Disclaimer : I did my best effort by modifying the existing code which helped me to deliver the expected result. Please free to modify/change based on your use-case.
 
 
-![StreamToSpark](StreamToSpark.png)
+![StreamsToSpark](StreamsToSpark.png)
 
 # Usage
 
